@@ -1,0 +1,20 @@
+{
+  "name": "ARKHÉ — Musée des Deux Testaments",
+  "short_name": "ARKHÉ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#070A12",
+  "theme_color": "#070A12",
+  "icons": [
+    {
+      "src": "assets/img/systeme/favicon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/img/systeme/favicon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
